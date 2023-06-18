@@ -39,7 +39,7 @@ _Below is an example of how you can instruct your audience on installing and set
    
 3. Install requeriments
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 4. run
    ```sh
