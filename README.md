@@ -47,7 +47,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
     python3 prueba.py
    ```
-![image](https://user-images.githubusercontent.com/17109060/32149062-4f0547ca-bd25-11e7-98b6-587467379704.png)
+![image](picture.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
